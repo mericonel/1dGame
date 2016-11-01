@@ -1,0 +1,46 @@
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEditor.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.CecilTools.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.xml
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEditor.xml
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.UI.xml
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\ParsonsY2\Core Lab1\1dGame\1dGame-master\1dGame\obj\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEditor.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.UI.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Mono.Cecil.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.DataContract.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Unity.CecilTools.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.xml
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEditor.xml
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.UI.xml
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\UnityProjects\1dGame\1dGame-master\1dGame\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\UnityProjects\1dGame\1dGame-master\1dGame\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\UnityProjects\1dGame\1dGame-master\1dGame\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\UnityProjects\1dGame\1dGame-master\1dGame\obj\Debug\Assembly-CSharp-firstpass.pdb
