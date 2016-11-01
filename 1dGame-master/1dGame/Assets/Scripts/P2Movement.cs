@@ -24,6 +24,8 @@ public class P2Movement : MonoBehaviour {
 	public float points;
 	public Vector3[] pos;
 
+	public ParticleSystem prtl;
+
 	void Start () {
 
 	}
@@ -119,11 +121,13 @@ public class P2Movement : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
 	{
-		if (other.gameObject.tag == "Player1" || other.gameObject.tag == "Player") {
+		if (other.gameObject.tag == "Player1" || other.gameObject.tag == "Player" && other.gameObject.tag != "p1" ) {
 			print ("player 1 wins");
 			txt.gameObject.SetActive (true);
 			StartCoroutine("restart");
 			approve.Play ();
+			prtl.gameObject.transform.position = transform.position;
+			prtl.Emit (30);
 		}
 	}
 		IEnumerator restart(){
